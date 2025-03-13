@@ -1,0 +1,14 @@
+c:\Users\Instruktor\Desktop\CSharp\test4\bin\Debug\net9.0\test4.exe
+c:\Users\Instruktor\Desktop\CSharp\test4\bin\Debug\net9.0\test4.deps.json
+c:\Users\Instruktor\Desktop\CSharp\test4\bin\Debug\net9.0\test4.runtimeconfig.json
+c:\Users\Instruktor\Desktop\CSharp\test4\bin\Debug\net9.0\test4.dll
+c:\Users\Instruktor\Desktop\CSharp\test4\bin\Debug\net9.0\test4.pdb
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.AssemblyInfoInputs.cache
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.AssemblyInfo.cs
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.csproj.CoreCompileInputs.cache
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.dll
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\refint\test4.dll
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.pdb
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\test4.genruntimeconfig.cache
+c:\Users\Instruktor\Desktop\CSharp\test4\obj\Debug\net9.0\ref\test4.dll
