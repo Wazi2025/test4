@@ -6,17 +6,17 @@ Console.WriteLine("Enter an integer between 5 and 10");
 
 while (validInput == false)
 {
-    readInput = Console.ReadLine();
-    int.TryParse(readInput, out testNumber);
+    bool parsePass;
 
-    if (testNumber >= 5 && testNumber <= 10)
+    readInput = Console.ReadLine();
+    parsePass = int.TryParse(readInput, out testNumber);
+
+    if (!parsePass)
+        Console.WriteLine($"{readInput} is not a number. Please try again.");
+    else if (testNumber >= 5 && testNumber <= 10)
         validInput = true;
     else
-    {
-        Console.WriteLine($"The number {testNumber} is not between 5 and 10. Please try again.");
-        //validInput = false;
-
-    }
+        Console.WriteLine($"{testNumber} is not between 5 and 10. Please try again.");
 }
 
 Console.WriteLine($"The number {testNumber} was accepted.");
